@@ -6,6 +6,8 @@ num_of_k = 0
 for value in a:
     if value == k:
         # 答えをインクリメントする
+        value += 1
+        pass
         num_of_k += 1
 
 print(num_of_k)
