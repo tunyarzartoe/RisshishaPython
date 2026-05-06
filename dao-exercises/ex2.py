@@ -8,3 +8,8 @@ for value in a:
         num_of_k += 1
 
 print(num_of_k)
+
+# 入力値
+# 5
+# 1 2 3 4 5
+# 3

@@ -18,3 +18,8 @@ k = int(input())
 
 count = a.count(k)
 print(count)
+
+# 入力値
+# 5
+# 1 2 3 4 5
+# 3
